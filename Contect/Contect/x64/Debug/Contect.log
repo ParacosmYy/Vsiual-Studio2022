@@ -1,0 +1,10 @@
+﻿  contact.c
+  text.c
+  正在生成代码...
+D:\c语言编程本\Contect\Contect\text.c(62,4): warning C4033: “checkcapacity”必须返回值
+D:\c语言编程本\Contect\Contect\text.c(222,11): warning C4098: “savecontact”:“void”函数返回值
+D:\c语言编程本\Contect\Contect\text.c(240,10): warning C4047: “函数”:“const char *”与“void (__cdecl *)(contact *)”的间接级别不同
+D:\c语言编程本\Contect\Contect\text.c(73): warning C4716: “checkcapacity”: 必须返回一个值
+D:\c语言编程本\Contect\Contect\text.c(240,10): warning C4024: “perror”: 形参和实参 1 的类型不同
+D:\c语言编程本\Contect\Contect\text.c(241,11): warning C4098: “loadcontact”:“void”函数返回值
+  Contect.vcxproj -> D:\c语言编程本\Contect\x64\Debug\Contact.exe

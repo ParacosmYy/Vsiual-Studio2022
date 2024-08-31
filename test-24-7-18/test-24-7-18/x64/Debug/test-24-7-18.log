@@ -1,0 +1,25 @@
+﻿  123.c
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(40,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(45,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(47,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(50,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(51,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(54,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(56,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(58,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(59,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(62,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(64,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(65,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(76,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(78,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(81,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(82,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(85,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(87,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(89,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(90,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(93,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(95,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c语言编程本\test-24-7-18\test-24-7-18\123.c(96,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  test-24-7-18.vcxproj -> D:\c语言编程本\test-24-7-18\x64\Debug\test-24-7-18.exe
